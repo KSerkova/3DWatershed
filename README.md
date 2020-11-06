@@ -1,1 +1,1 @@
-Unsuperwised watershed segmenttaion based on spherisity optimisation
+Unsupervised watershed segmentaion based on spherisity optimization
